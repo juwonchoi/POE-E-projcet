@@ -97,9 +97,10 @@
 ```
 - 기존의 Donkey car에 청소를 위한 차체를 3D 프린트를 활용해 직접 제작
 ```
-![modeling](https://user-images.githubusercontent.com/35826728/85099414-4e500080-b238-11ea-9b07-ba9cc02e97fb.jpg)
-![trash2](https://user-images.githubusercontent.com/35826728/85099443-5dcf4980-b238-11ea-8645-a3df821e7e79.png)      
+      <img src="https://github.com/juwonchoi/POE-E-project/blob/master/screenshot/modeling.jpg" width="40%" height="30%" align="left"></img>
+      
+      <img src="https://github.com/juwonchoi/POE-E-project/blob/master/screenshot/trash2.png" width="40%" height="30%"></img>  
       
   2. 모터 구조
   
-![servomotor_structure](https://user-images.githubusercontent.com/35826728/85099529-9838e680-b238-11ea-83c0-29e5604621f5.jpg)
+    <img src="https://github.com/juwonchoi/POE-E-project/blob/master/screenshot/servomotor_structure.jpg" width="30%" height="20%"></img>
