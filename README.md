@@ -70,6 +70,7 @@
   1.  Raspberry pi 내부에서 Real-time detection 시도  
   ```
   - 사진은 어느정도 가능하나 Real-time으로는 실패  
+  
   - tiny한 모델들을 사용해봐도 여전히 실패
   ```
   2. MJPG-Streamer를 이용한 서버와의 HTTP 통신
