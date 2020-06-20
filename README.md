@@ -52,6 +52,7 @@
   5. donkey car app 설정(raspberry pi)
   
   6. 운전 및 학습
+  ```
     - git clone https://github.com/autorope/donkeycar 
     
     - OpenCV, CuDNN, CUDA 설치
@@ -64,7 +65,7 @@
     
     - python ~/mycar/manage.py train --model ~/mycar/models/<파일이름>.h5 로 모델 생성. 
       이때, myconfig.py에서 다양한 모델을 생성해볼 수 있다.
-
+```
 ## Object Detection
   1.  Raspberry pi 내부에서 Real-time detection 시도  
   ```
